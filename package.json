@@ -1,0 +1,17 @@
+{
+  "name": "twittersentimentanalysis",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "set GOOGLE_APPLICATION_CREDENTIALS=./gcloud-private-key.json && node index.js"
+  },
+  "dependencies": {
+    "@google-cloud/language": "^7.2.0",
+    "twitter-lite": "^1.1.0"
+  }
+}
