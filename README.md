@@ -6,11 +6,10 @@ A simple Node.js application that fetches tweets from Twitter and analyzes their
 
 ## 🖼️ User Interface
 
-![Tweet Output Example](https://github.com/user-attachments/assets/1f838f41-c652-4df0-86e5-f37f0fbade9c)
-)
+![Code Output](https://github.com/user-attachments/assets/1f838f41-c652-4df0-86e5-f37f0fbade9c)
 
-![Sentiment Analysis Result](https://github.com/user-attachments/assets/98724f4c-d742-4d35-9fd7-e2b136e22d08>
-)
+![Cloud](https://github.com/user-attachments/assets/98724f4c-d742-4d35-9fd7-e2b136e22d08)
+
 
 ---
 
