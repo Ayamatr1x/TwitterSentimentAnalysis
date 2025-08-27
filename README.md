@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis
+#  Twitter Sentiment Analysis
 
 A simple Node.js application that fetches tweets from Twitter and analyzes their sentiment using the **Google Cloud Natural Language API**.
 
